@@ -1,28 +1,39 @@
-# Growth Mindset                                
+# Reading Notes
 
-***Growth Mindset***, que traducido del ingles significa ***"mentalidad de crecimiento"*** es una corriente de pensamiento en la cual la inteligencia y las habilidades natas son solo un buen comienzo, pero para tener exito es fundamental que las habilidades se desarrollen mediante perseverancia y esfuerzo. Esta forma de entender las habilidades es diametralmente opuesta al ***Fixed Mindset*** en el cual los talentos y la inteligencia vienen dados por la genetica y son predictivos del éxito sin necesidad de mayor desarrollo o esfuerzo. 
+## Introducción:
 
-![Growth Mindset](https://atlassianblog.wpengine.com/wp-content/uploads/NewGrowthMindset2.png "Mentalidad de crecimiento")
+Mi nombre es Luis, soy estudiante de programación y espero aprender todo lo necesario para poder desempeñarme satisfactoriamente en esta rama de la tecnologia.
 
-***
-### Segun las propias palabras de Steve Haffenden:
-El ***Growth Mindset*** puede abrir a mayor creatividad y mayores posibilidades,  
-y permitir que se planteén metas más altas a alcanzar.
-***
+## Sobre la web:
 
-### En este punto la pregunta sería: ¿Como mantenerme en un estado Growth Mindset?
+Esta web se trata de las lecturas desarrolladas en el BootCamp Enter Tech School. 
 
-* Ver los retos desde una perspectiva optimista, como una oportunidad para aprender algo nuevo.
-* Comprender que el esfuerzo es fundamental para el exito en la vida y pasar de la teoría a la práctica, aplicarlo. 
-* Realizar diariamente una critica a uno mismo buscando en que se puede mejorar.
+## Tabla de contenidos:
 
-
-
-
-
-
+* 102
+    * [Aprendiendo Markdown](./102/lectura01.md)
+    * [Herramientas del Desarrollador](./102/lectura02.md)
+    * [Control de versiones con Git](./102/lectura03.md)
+    * [Estructura y Diseño: Wireframe, HTML y CSS](./102/lectura04.md)
+    * [Introducción a JavaScript](./102/lectura05.md)
+    * [Programación con JavaScript](./102/lectura06.md)
+    * [Operadores y Bucles](./102/lectura07.md)
+    + No hay lectura 8
 
 
-
-
-
+* 201
+    * Lectura 1
+    * Lectura 2
+    * Lectura 3
+    * Lectura 4
+    * Lectura 5
+    * Lectura 6
+    * Lectura 7
+    * Lectura 8
+    * Lectura 9
+    * Lectura 10
+    * Lectura 11
+    * Lectura 12
+    * Lectura 13
+    * Lectura 14
+    * Lectura 15
