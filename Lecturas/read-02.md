@@ -31,19 +31,19 @@ Las caracteristicas son:
 
 ### ¿Que hacen los siguientes comandos?
 
-1. Pwd
-2. ls
+1. Pwd.- Este comando nos dice en donde estamos.
+2. ls.- Es usado para saber que hay donde estamos, al ser combinado con mayores elementos en el comando nos brinda información más especifica. 
 3. cd.- Se usa para ingresar a una carpeta, tiene que ser seguido por el nombre de la carpeta. 
 4. mkdir.- Este comnado crea una carpeta, a continuación se coloca el nombre de la carpeta.
 5. touch.-
 
 ### ¿Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos? (Los argumentos son instrucciones adicionales dadas a un comando).
 
-1. cd projects.-
-2. mkdir new-project.-
-3. touch new-project/newfile.md.-
+1. cd projects.- Al usar este comando estarías ingresando a la carpeta "projects".
+2. mkdir new-project.- En este caso estarías creando una carpera #new-project".
+3. touch new-project/newfile.md.- En este caso se crea un archivo md. 
 4. cd .. Este comando retrocede un paso en el sistema. 
-5. ls projects/new-project.-  
+5. ls projects/new-project.- En este caso nos indicará los proyectos que hay dentro de la carpeta new-proyect.  
 
 
    
