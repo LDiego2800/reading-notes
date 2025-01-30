@@ -18,6 +18,7 @@ Además de ella existen otras propiedades o "propiedades dentro de la principal"
 Al utilizar la propiedad flex le agregamos el padding y de esta manera podremos controlar los tamaños al hacerlo responsive.  
 
 ## ¿Cuáles son las diferencias entre los formatos de color RGB, RGBA, hexadecimal y HSL en CSS, y en qué situaciones sería más conveniente utilizar cada uno?
+Son distintos formatos con los que se puede conseguir los mismos colores, sin embargo tienen diferencias como que en el formato RGBA se puede agregar transparencias, esto en el ultimo valor, y en el formato HSL se trabaja con saturaciones y con luminosidades. 
 
 
 
